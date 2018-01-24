@@ -1,0 +1,2 @@
+ui <- fluidPage("Hello world")
+
